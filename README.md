@@ -17,4 +17,4 @@ Google Colaboratory上でのKaggle API利用例
 高橋かずひと(https://twitter.com/KzhtTkhs)
 
 # License
-kaggle-memo is under [MIT license](LICENSE.md).
+kaggle-memo is under [MIT license](LICENSE).
