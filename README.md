@@ -13,3 +13,8 @@ Kaggleメモ（個人用、社内用雑記）
 * XX.Kaggle api on Google Colab<br>
 Google Colaboratory上でのKaggle API利用例
 
+# Author
+高橋かずひと(https://twitter.com/KzhtTkhs)
+
+# License
+kaggle-memo is under [MIT license](LICENSE.md).
