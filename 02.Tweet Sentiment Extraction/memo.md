@@ -11,3 +11,6 @@ RoBERTaのTweet Sentiment Extractionコンペへの有効性について
 BERT系のモデルで見出し語化、ストップワード除去等を実施しない件について
 <!-- * [Analysis of 3 or more repetitions in predictions ("goood"-problem)](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/156720)<br>
 goood等の3文字以上同じアルファベットが続く問題について -->
+
+# Others
+* [pythonのtokenizersのByteLevelBPETokenizerを利用してみた](https://www.hirayuki.com/kaggle-zakki/python-tokenizers)<br>
