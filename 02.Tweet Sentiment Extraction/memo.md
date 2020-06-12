@@ -9,5 +9,5 @@ HuggingFaceのTF roBERTaベースモデルについて
 RoBERTaのTweet Sentiment Extractionコンペへの有効性について
 * [Why no Pre-processsing?](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/157094) <br>
 BERT系のモデルで見出し語化、ストップワード除去等を実施しない件について
-* [Analysis of 3 or more repetitions in predictions ("goood"-problem)](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/156720)<br>
-goood等の3文字以上同じアルファベットが続く問題について
+<!-- * [Analysis of 3 or more repetitions in predictions ("goood"-problem)](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/156720)<br>
+goood等の3文字以上同じアルファベットが続く問題について -->
