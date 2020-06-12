@@ -14,3 +14,4 @@ goood等の3文字以上同じアルファベットが続く問題について -
 
 # Others
 * [pythonのtokenizersのByteLevelBPETokenizerを利用してみた](https://www.hirayuki.com/kaggle-zakki/python-tokenizers)<br>
+* [BERTの精度を向上させる手法10選](https://qiita.com/YuiKasuga/items/343309257da1798c1b63)
