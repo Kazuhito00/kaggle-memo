@@ -10,6 +10,8 @@ Kaggleメモ（個人用、社内用雑記）
     →コンペ概要メモ(Google Colaboratoryでの利用を想定)
     * base-notebook(Google Colab).ipynb<br>
     →「XX.Kaggle api on Google Colab」の「Tweet Sentiment Extraction」版
+    * memo.md<br>
+    →参考にしたNotebookやDiscussionのメモ
 * XX.Kaggle api on Google Colab<br>
 →Google Colaboratory上でのKaggle API利用例
 
