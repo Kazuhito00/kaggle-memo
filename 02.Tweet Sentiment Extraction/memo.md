@@ -20,3 +20,4 @@ goood等の3文字以上同じアルファベットが続く問題について -
 
 # Reference
 * [Kaggle Tweetコンペ振り返り - コンペ概要・BERTによるQ&Aアプローチについて](https://rishigami.hatenablog.com/entry/2020/06/17/090000?utm_campaign=Weekly%20Kaggle%20News&utm_medium=email&utm_source=Revue%20newsletter)
+* [kaggle tweet コンペの闇と光 (コンペ概要と上位解法)](https://guchio3.hatenablog.com/entry/2020/06/20/115616)
