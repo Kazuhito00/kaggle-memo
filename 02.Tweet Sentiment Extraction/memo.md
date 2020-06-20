@@ -17,3 +17,6 @@ goood等の3文字以上同じアルファベットが続く問題について -
 * [(Part 1) tensorflow2でhuggingfaceのtransformersを使ってBERTを文書分類モデルに転移学習する](https://tksmml.hatenablog.com/entry/2019/10/22/215000)
 * [(Part 2) tensorflow 2 でhugging faceのtransformers公式のBERT日本語学習済みモデルを文書分類モデルにfine-tuningする](https://tksmml.hatenablog.com/entry/2019/12/15/090900)
 * [BERTの精度を向上させる手法10選](https://qiita.com/YuiKasuga/items/343309257da1798c1b63)
+
+# Reference
+* [Kaggle Tweetコンペ振り返り - コンペ概要・BERTによるQ&Aアプローチについて](https://rishigami.hatenablog.com/entry/2020/06/17/090000?utm_campaign=Weekly%20Kaggle%20News&utm_medium=email&utm_source=Revue%20newsletter)
